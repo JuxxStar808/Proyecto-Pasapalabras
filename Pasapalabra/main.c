@@ -70,3 +70,7 @@ void registrar_jugador()
 	printf("\nRegistro de %s exitoso.\n",jugador_nuevo);  //Aqui le aparecera al jugar su nombre y confirmando asi su registro exitoso
 
 }
+
+
+
+
